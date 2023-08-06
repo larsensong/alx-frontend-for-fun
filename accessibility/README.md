@@ -23,7 +23,7 @@ Robust: Can the content be consumed by a wide variety of user agents (browsers)?
 
 After defining the 4 principles, WCAG defined 3 differents levels, the two first being absolutely required for any business and website. AAA level is recommended but not required as it may have bigger impacts on designs.
 
-Levels
+      Levels
 Level A (required)
 A: This level improves accessibility for most sites by making it easier for browsing readers to navigate a site and translate its content, but it is still pretty basic.
 
