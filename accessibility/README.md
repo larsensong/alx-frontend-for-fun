@@ -33,7 +33,7 @@ AA: This level makes content accessible to people with a wider range of disabili
 Level AAA (optional)
 AAA: The highest level of accessibility compliance, this makes content accessible to the widest range of people, but it can significantly alter the design of a site. Government legislation doesn’t typically require this because it’s not always possible to conform.
 
-Resources
+      Resources
 Accessibility Conformance Levels: Standards
 
 ARIA (Accessible Rich Internet Applications)
